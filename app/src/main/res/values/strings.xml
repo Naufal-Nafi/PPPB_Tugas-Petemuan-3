@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Petemuan 3</string>
+    <string name="name">PT XYZ</string>
+    <string name="location">Sleman</string>
+    <string name="Katalog">Katalog Tender</string>
+    <string name="Tender">Tender Tersimpan</string>
+    <string name="Laporan">Laporan Statistik</string>
+    <string name="Pengaturan">Pengaturan</string>
+    <string name="deskripsi">Informasi perubahan data katalog\nPembaruan terakhir:16-06-2022 15:00:01\nPembaruan selanjutnya: 17-06-2022 15:00:01</string>
+</resources>
